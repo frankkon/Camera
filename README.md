@@ -1,2 +1,2 @@
 # Camera
-I camera tool based on Hikvision SDK and gphoto2.
+A camera tool based on Hikvision SDK and gphoto2.
